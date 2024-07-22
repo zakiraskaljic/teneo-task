@@ -9,8 +9,8 @@ Ovo je modul za upravljanje odsustvima radnika, što je ključni dio aplikacije 
 
 - Kalendar za Registraciju: Klikom na dugme „Registruj odsustvo“ otvara se modal u kojem korisnik može unijeti datum ili period za koji želi registrirati službeni put. Nakon toga, korisnik se preusmjerava na formu za popunjavanje dodatnih informacija.
 
-- Podaci za Unos: Mogućnost odabira više odredišnih država, dodavanje iznosa akontacije, obračun putnih troškova (uključuje troškove prevoza, noćenja i ostale moguće troškove) i izjava da li su bi omogućeni obroci tokom službenog puta
--Akcije po zahtjevu: Omogućava pregled zahtjeva na portalu, klikom na kdugme se preuzima Excel dokument sa podacima o putnom nalogu i opcija zaključavanja klikom na katanac dugme nakon čega korisnik više nema pristup drugim aktivnostima.
+- Podaci za Unos: Mogućnost odabira više odredišnih država, dodavanje iznosa akontacije, obračun putnih troškova (uključuje troškove prevoza, noćenja i ostale moguće troškove) i izjava da li su bili omogućeni obroci tokom službenog puta
+- Akcije po zahtjevu: Omogućava pregled zahtjeva na portalu, klikom na dugme se preuzima Excel dokument sa podacima o putnom nalogu i opcija zaključavanja klikom na katanac dugme nakon čega korisnik više nema pristup drugim aktivnostima.
 
 ## Instalacija i pokretanje
 
