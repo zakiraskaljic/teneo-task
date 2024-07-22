@@ -1,0 +1,29 @@
+{
+  "name": "teneo-test",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "flatpickr": "^4.6.13",
+    "v-calendar": "^3.1.2",
+    "vue": "^3.4.29",
+    "vue-cal": "^4.9.0",
+    "vue-router": "^4.4.0",
+    "vue3-datepicker": "^0.4.0",
+    "vuex": "^4.1.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1"
+  }
+}
